@@ -1,7 +1,9 @@
 # react-boilerplate
 A very common and simple React application boilerplate.
 
-https://cancan-react-expensify-app.herokuapp.com/
+This boilerplate is based on expensify application I created.
+
+ Repo link: https://github.com/canyener/expensify
 
 ## dev tools
 
