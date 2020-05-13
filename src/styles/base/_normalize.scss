@@ -357,7 +357,7 @@
  kbd,
  pre,
  samp {
-   font-family: monospace, monospace;
+   font-family: monospace;
    @if $legacy_browser_support {
      _font-family: 'courier new', monospace;
    }
