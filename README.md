@@ -1,3 +1,6 @@
+![CI](https://github.com/canyener/react-boilerplate/workflows/CI/badge.svg)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=canyener_react-boilerplate&metric=alert_status)](https://sonarcloud.io/dashboard?id=canyener_react-boilerplate)
+
 # react-boilerplate
 A very common and simple React application boilerplate.
 
